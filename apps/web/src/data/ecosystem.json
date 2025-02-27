@@ -3998,5 +3998,13 @@
     "imageUrl": "/images/partners/unlockprotocol.png",
     "category": "infra",
     "subcategory": "consumer"
+  },
+  {
+    "name": "Your Project Name",
+    "description": "A brief description of your project (less than 200 characters)",
+    "url": "https://your-project-url.com",
+    "imageUrl": "/images/partners/your-project-logo.png",
+    "category": "Your Project Category",
+    "subcategory": "Your Project Subcategory"
   }
 ]
